@@ -3,7 +3,20 @@
 
 A comparative analysis of solar energy viability, revenue, and investment return across two markets — Phoenix, USA and London, UK — built with a Python data pipeline and an interactive Power BI dashboard.
 
-![Dashboard Preview](dashboard_screenshots/page1_production.png)
+![Production Overview](E1.png)
+*Page 1 — Production Overview*
+
+![Revenue & Market Price](E2.png)
+*Page 2 — Revenue & Market Price*
+
+![Forecast](E3.png)
+*Page 3 — Forecast*
+
+![Scenario Simulator](E4.png)
+*Page 4 — Scenario Simulator*
+
+![ROI & Break-Even Analysis](E5.png)
+*Page 5 — ROI & Break-Even Analysis*
 
 ## 🔑 Headline Finding
 
